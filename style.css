@@ -1,0 +1,12 @@
+* {
+    font-family: "Noto Sans Mono", monospace, sans-serif;
+}
+
+body {
+    background-color: #9ed6ad;
+}
+
+img {
+    height: 300px;
+    width: 600px;
+}
